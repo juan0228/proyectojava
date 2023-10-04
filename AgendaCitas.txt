@@ -1,0 +1,11 @@
+Cirugía Pediátrica,Fernando Gomez Lopez,AB+ ,21/06/2023,Turno Mañana
+Odontólogia,Martin Dulante Ruiz,O-,30/06/2023,Turno  Tarde
+Anatomía Patológica.,Fernando Gomez Lopez,A-,14/06/2023,Turno  Tarde
+Pediatría,Flor Quispe Gomero,O+,22/06/2023,Turno  Tarde
+Oftalmólogo,Fernando Gomez Lopez,B-,12/07/2023,Turno Mañana
+Cirugía Pediátrica,Flor Quispe Gomero,A-,23/06/2023,Turno  Tarde
+Cirugía Pediátrica,Flor Quispe Gomero,B-,30/06/2023,Turno  Tarde
+Cirugía Pediátrica,Flor Quispe Gomero,A-,24/06/2023,Turno Mañana
+Cirugía Pediátrica,Fernando Gomez Lopez,A-,23/06/2023,Turno Mañana
+Anatomía Patológica.,Rodolfo Mendoza Huaman,A+,11/10/2023,Turno  Tarde
+Cirugía Pediátrica,Martin Dulante Ruiz,A-,10/10/2023,Turno  Tarde
